@@ -1,0 +1,43 @@
+body{
+    background-color: sandybrown;
+    background-position: 0ch;
+}
+
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+
+header{
+    background-color: blue;
+    height: 200px;
+    text-align: center;
+  
+   
+}
+nav{
+    background-color: red;
+    height: 40px;
+    
+  
+}
+
+
+main{
+    background-color: rgb(181, 184, 221);
+    height: 400px;
+  
+}
+
+footer{
+    background-color: rgb(95, 185, 43);
+    height: 408px;
+   
+}
+img{
+    height: 100px;
+}
