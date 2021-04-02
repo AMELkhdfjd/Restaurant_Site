@@ -1,5 +1,5 @@
 body{
-    background-color: sandybrown;
+    background-color: rgb(163, 119, 119);
     background-position: 0ch;
 }
 
@@ -13,8 +13,8 @@ body{
 
 
 header{
-    background-color: blue;
-    height: 200px;
+
+   
     text-align: center;
   
    
@@ -28,16 +28,29 @@ nav{
 
 
 main{
-    background-color: rgb(181, 184, 221);
+    text-align: center;
     height: 400px;
+    padding-top: 80px;
+    padding-right: 240px;
+    padding-left: 240px;
+   
   
 }
 
 footer{
     background-color: rgb(95, 185, 43);
-    height: 408px;
+    height: 100px;
    
 }
-img{
-    height: 100px;
+
+h1{
+    size: 84px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
 }
