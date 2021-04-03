@@ -1,6 +1,9 @@
 body{
     background-color: rgb(163, 119, 119);
     background-position: 0ch;
+    background-image:  url(./Images/download.jpg);
+    background-size: cover;
+    
 }
 
 
@@ -53,6 +56,9 @@ p{
     size: 18px;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-}a{
+}
+a{
     color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    /*text-decoration: none;*/
 }
