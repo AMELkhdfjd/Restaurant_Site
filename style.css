@@ -3,7 +3,8 @@ body{
     background-position: 0ch;
     background-image:  url(./Images/download.jpg);
     background-size: cover;
-    
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 
@@ -23,9 +24,9 @@ header{
    
 }
 nav{
-    background-color: #dd2d2d;
+    background-color: #5755554d;
     height: 40px;
-    
+    text-align: center;
   
 }
 
